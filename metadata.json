@@ -1,0 +1,6 @@
+{
+  "name": "ProMax Design Studio",
+  "description": "Tejas — Textile Revivalist from India. Restoring near-extinct traditional handloom motifs, authentic natural dyes, fair-trade artisan supply chains, and conscious couture sarees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

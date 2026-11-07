@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 60" width="150" height="60">
+    <rect x="2" y="6" width="146" height="48" fill="none" stroke="#a09c9a" stroke-width="1" stroke-opacity="0.45"/>
+    <text x="22" y="36" font-family="Anton, sans-serif" font-size="20" fill="#d92638" letter-spacing="1">ND</text>
+    <line x1="52" y1="16" x2="52" y2="44" stroke="#a09c9a" stroke-width="1" stroke-opacity="0.35"/>
+    <text x="62" y="33" font-family="Manrope, sans-serif" font-size="8.5" font-weight="700" fill="#f2efeb" letter-spacing="0.8">AUTHENTIC NATURAL DYES</text>
+  </svg>

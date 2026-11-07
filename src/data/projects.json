@@ -1,0 +1,32 @@
+[
+  {
+    "type": "image",
+    "title": "The Heritage Weave Revival",
+    "description": "Restoring near-extinct traditional handloom motifs and authentic natural dye techniques in direct partnership with rural master weavers.",
+    "media": "./Asset/img/work-heritage-weave.jpg",
+    "role": "Textile Revivalist",
+    "year": "2026",
+    "category": "Handloom",
+    "image": "./Asset/img/work-heritage-weave.jpg"
+  },
+  {
+    "type": "image",
+    "title": "Sustainable Artisan Collective",
+    "description": "Building a direct-to-consumer fair-trade supply chain that connects generational Indian weavers directly with a global luxury clientele.",
+    "media": "./Asset/img/work-artisan-collective.jpg",
+    "role": "Founder & Strategist",
+    "year": "2026",
+    "category": "Fair Trade",
+    "image": "./Asset/img/work-artisan-collective.jpg"
+  },
+  {
+    "type": "image",
+    "title": "Conscious Couture Edit",
+    "description": "Curating bespoke capsule collections of pure handmade sarees featuring intricate traditional zari work and modern minimalist aesthetics.",
+    "media": "./Asset/img/work-conscious-couture.jpg",
+    "role": "Couture Curator",
+    "year": "2026",
+    "category": "Couture",
+    "image": "./Asset/img/work-conscious-couture.jpg"
+  }
+]
